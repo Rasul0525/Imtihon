@@ -1,0 +1,52 @@
+h1{
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid red;
+}
+span{
+    color: black;
+    background-color: yellow;
+}
+i{
+    color: red;
+}
+h2{
+    color: green;
+}
+.aa,.ss,.cc{
+    background-color: yellow;
+    text-align: center;
+}
+img{
+text-align: center;
+}
+input{
+    width: 85%;
+}
+form{
+text-align: left;
+}
+th,td{
+    border: 1px solid white;
+  
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+.xx,.vv{
+background-color: red;
+}
+.ff,.bb{
+    background-color: black;
+    color: white;
+}
+.zz{
+    background-color: green;
+}
+.kk{
+    background-color: blue;
+}
